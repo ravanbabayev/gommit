@@ -1,2 +1,2 @@
 # gommit
-A smart CLI tool that generates well-structured Git commit messages following Conventional Commits standard. Analyzes your staged changes and helps create consistent, meaningful commit messages through interactive prompts.
+gommit analyzes your staged Git changes and guides you through creating professional commit messages. It follows Conventional Commits specification, suggests commit types based on file changes, and helps maintain consistent commit history across your projects.
